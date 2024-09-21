@@ -1,0 +1,626 @@
+[
+  {
+    "date": "1964-01-05",
+    "numbers": [
+      16,
+      34,
+      38,
+      40,
+      42,
+      43
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-01-12",
+    "numbers": [
+      1,
+      8,
+      21,
+      28,
+      38,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-01-19",
+    "numbers": [
+      6,
+      28,
+      32,
+      34,
+      47,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-01-26",
+    "numbers": [
+      7,
+      14,
+      17,
+      30,
+      36,
+      43
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-02-02",
+    "numbers": [
+      2,
+      3,
+      11,
+      21,
+      26,
+      46
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-02-09",
+    "numbers": [
+      7,
+      10,
+      18,
+      25,
+      29,
+      32
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-02-16",
+    "numbers": [
+      7,
+      21,
+      22,
+      28,
+      39,
+      47
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-02-23",
+    "numbers": [
+      2,
+      16,
+      21,
+      26,
+      32,
+      47
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-03-01",
+    "numbers": [
+      3,
+      15,
+      23,
+      35,
+      37,
+      44
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-03-08",
+    "numbers": [
+      1,
+      16,
+      26,
+      32,
+      35,
+      41
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-03-15",
+    "numbers": [
+      10,
+      16,
+      17,
+      25,
+      31,
+      43
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-03-22",
+    "numbers": [
+      2,
+      9,
+      10,
+      13,
+      24,
+      39
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-03-30",
+    "numbers": [
+      18,
+      22,
+      25,
+      36,
+      41,
+      47
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-04-05",
+    "numbers": [
+      1,
+      23,
+      24,
+      28,
+      30,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-04-12",
+    "numbers": [
+      13,
+      15,
+      25,
+      32,
+      42,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-04-19",
+    "numbers": [
+      10,
+      21,
+      23,
+      37,
+      39,
+      41
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-04-26",
+    "numbers": [
+      19,
+      28,
+      38,
+      39,
+      40,
+      46
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-05-03",
+    "numbers": [
+      4,
+      5,
+      9,
+      43,
+      47,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-05-10",
+    "numbers": [
+      11,
+      12,
+      19,
+      32,
+      34,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-05-18",
+    "numbers": [
+      5,
+      9,
+      33,
+      35,
+      42,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-05-24",
+    "numbers": [
+      6,
+      11,
+      13,
+      31,
+      34,
+      43
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-05-31",
+    "numbers": [
+      1,
+      21,
+      22,
+      38,
+      45,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-06-07",
+    "numbers": [
+      4,
+      5,
+      9,
+      32,
+      37,
+      45
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-06-14",
+    "numbers": [
+      1,
+      22,
+      23,
+      29,
+      39,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-06-21",
+    "numbers": [
+      14,
+      27,
+      33,
+      37,
+      39,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-06-28",
+    "numbers": [
+      5,
+      10,
+      11,
+      22,
+      27,
+      37
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-07-05",
+    "numbers": [
+      10,
+      12,
+      13,
+      22,
+      23,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-07-12",
+    "numbers": [
+      1,
+      18,
+      35,
+      36,
+      47,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-07-19",
+    "numbers": [
+      3,
+      12,
+      24,
+      37,
+      38,
+      46
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-07-26",
+    "numbers": [
+      31,
+      34,
+      37,
+      41,
+      44,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-08-02",
+    "numbers": [
+      16,
+      34,
+      36,
+      40,
+      45,
+      47
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-08-09",
+    "numbers": [
+      9,
+      16,
+      34,
+      36,
+      38,
+      41
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-08-16",
+    "numbers": [
+      6,
+      14,
+      23,
+      36,
+      45,
+      46
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-08-23",
+    "numbers": [
+      12,
+      16,
+      20,
+      32,
+      37,
+      45
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-08-30",
+    "numbers": [
+      4,
+      17,
+      31,
+      35,
+      36,
+      40
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-09-06",
+    "numbers": [
+      34,
+      36,
+      38,
+      41,
+      43,
+      45
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-09-13",
+    "numbers": [
+      1,
+      4,
+      6,
+      20,
+      24,
+      27
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-09-20",
+    "numbers": [
+      18,
+      21,
+      32,
+      39,
+      42,
+      43
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-09-27",
+    "numbers": [
+      9,
+      22,
+      26,
+      29,
+      41,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-10-04",
+    "numbers": [
+      8,
+      20,
+      25,
+      35,
+      46,
+      47
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-10-11",
+    "numbers": [
+      2,
+      23,
+      34,
+      38,
+      42,
+      46
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-10-18",
+    "numbers": [
+      1,
+      6,
+      17,
+      33,
+      34,
+      44
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-10-25",
+    "numbers": [
+      14,
+      16,
+      18,
+      19,
+      29,
+      39
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-11-01",
+    "numbers": [
+      1,
+      14,
+      22,
+      30,
+      36,
+      40
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-11-08",
+    "numbers": [
+      2,
+      18,
+      21,
+      26,
+      32,
+      41
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-11-15",
+    "numbers": [
+      3,
+      9,
+      23,
+      24,
+      33,
+      38
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-11-22",
+    "numbers": [
+      5,
+      9,
+      22,
+      33,
+      39,
+      46
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-11-29",
+    "numbers": [
+      5,
+      11,
+      17,
+      31,
+      32,
+      40
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-12-06",
+    "numbers": [
+      2,
+      4,
+      8,
+      23,
+      33,
+      45
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-12-13",
+    "numbers": [
+      10,
+      17,
+      28,
+      30,
+      36,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-12-20",
+    "numbers": [
+      15,
+      20,
+      29,
+      30,
+      39,
+      46
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1964-12-27",
+    "numbers": [
+      15,
+      16,
+      21,
+      35,
+      37,
+      47
+    ],
+    "superNumber": null
+  }
+]

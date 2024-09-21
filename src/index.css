@@ -1,0 +1,63 @@
+/* src/index.css */
+
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+/* Remove responsiveness by setting fixed widths */
+.grid-container {
+  display: grid;
+  gap: 5px;
+  margin: 20px 0;
+}
+
+.numbers-grid {
+  grid-template-columns: repeat(7, 42px); /* Fixed column width */
+}
+
+.super-numbers-grid {
+  grid-template-columns: repeat(5, 42px); /* Adjust as needed */
+}
+
+/* Grid item */
+.grid-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;  /* Fixed width */
+  height: 42px; /* Fixed height */
+  color: #000;  /* Set text color to black for contrast */
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 1px solid black; /* Added border */
+}
+
+/* Number lists */
+.number-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 10px 0 20px;
+}
+
+.number-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px; /* Fixed width */
+  height: 42px; /* Fixed height */
+  border-radius: 4px;
+  color: #000; /* Set text color to black for contrast */
+  font-weight: bold;
+  cursor: pointer;
+  border: 1px solid black; /* Added border */
+}
+
+.number-item[title] {
+  cursor: pointer;
+}
+
+/* Remove responsiveness by not including media queries */

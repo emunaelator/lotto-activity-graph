@@ -1,0 +1,638 @@
+[
+  {
+    "date": "1977-01-01",
+    "numbers": [
+      23,
+      24,
+      25,
+      31,
+      36,
+      39
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-01-08",
+    "numbers": [
+      2,
+      7,
+      13,
+      30,
+      31,
+      33
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-01-15",
+    "numbers": [
+      16,
+      24,
+      38,
+      39,
+      44,
+      46
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-01-22",
+    "numbers": [
+      2,
+      3,
+      12,
+      16,
+      19,
+      38
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-01-29",
+    "numbers": [
+      2,
+      7,
+      9,
+      16,
+      20,
+      40
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-02-05",
+    "numbers": [
+      4,
+      8,
+      9,
+      23,
+      37,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-02-12",
+    "numbers": [
+      19,
+      23,
+      24,
+      25,
+      37,
+      43
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-02-19",
+    "numbers": [
+      5,
+      9,
+      10,
+      15,
+      16,
+      31
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-02-26",
+    "numbers": [
+      2,
+      20,
+      34,
+      37,
+      44,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-03-05",
+    "numbers": [
+      9,
+      10,
+      34,
+      39,
+      40,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-03-12",
+    "numbers": [
+      8,
+      9,
+      10,
+      16,
+      33,
+      46
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-03-19",
+    "numbers": [
+      15,
+      19,
+      21,
+      22,
+      31,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-03-26",
+    "numbers": [
+      9,
+      13,
+      14,
+      20,
+      36,
+      44
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-04-02",
+    "numbers": [
+      3,
+      5,
+      17,
+      18,
+      34,
+      47
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-04-09",
+    "numbers": [
+      3,
+      27,
+      29,
+      41,
+      45,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-04-16",
+    "numbers": [
+      5,
+      20,
+      25,
+      39,
+      48,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-04-23",
+    "numbers": [
+      16,
+      17,
+      26,
+      30,
+      41,
+      43
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-04-30",
+    "numbers": [
+      1,
+      8,
+      12,
+      15,
+      27,
+      34
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-05-07",
+    "numbers": [
+      5,
+      16,
+      17,
+      20,
+      24,
+      35
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-05-14",
+    "numbers": [
+      15,
+      25,
+      31,
+      36,
+      37,
+      41
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-05-21",
+    "numbers": [
+      5,
+      7,
+      9,
+      21,
+      27,
+      36
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-05-28",
+    "numbers": [
+      12,
+      13,
+      22,
+      39,
+      45,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-06-04",
+    "numbers": [
+      11,
+      29,
+      30,
+      32,
+      36,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-06-11",
+    "numbers": [
+      3,
+      12,
+      14,
+      32,
+      40,
+      46
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-06-18",
+    "numbers": [
+      9,
+      17,
+      18,
+      20,
+      29,
+      40
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-06-25",
+    "numbers": [
+      6,
+      20,
+      32,
+      38,
+      40,
+      41
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-07-02",
+    "numbers": [
+      11,
+      18,
+      20,
+      27,
+      34,
+      47
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-07-09",
+    "numbers": [
+      3,
+      7,
+      19,
+      24,
+      30,
+      36
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-07-16",
+    "numbers": [
+      2,
+      37,
+      39,
+      44,
+      47,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-07-23",
+    "numbers": [
+      6,
+      13,
+      22,
+      24,
+      37,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-07-30",
+    "numbers": [
+      11,
+      15,
+      24,
+      36,
+      40,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-08-06",
+    "numbers": [
+      2,
+      15,
+      28,
+      36,
+      37,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-08-13",
+    "numbers": [
+      9,
+      10,
+      20,
+      21,
+      30,
+      34
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-08-20",
+    "numbers": [
+      13,
+      16,
+      19,
+      27,
+      32,
+      37
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-08-27",
+    "numbers": [
+      3,
+      7,
+      9,
+      14,
+      22,
+      35
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-09-03",
+    "numbers": [
+      3,
+      21,
+      24,
+      28,
+      29,
+      36
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-09-10",
+    "numbers": [
+      3,
+      23,
+      25,
+      40,
+      44,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-09-17",
+    "numbers": [
+      1,
+      22,
+      32,
+      33,
+      37,
+      40
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-09-24",
+    "numbers": [
+      10,
+      11,
+      12,
+      13,
+      18,
+      32
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-10-01",
+    "numbers": [
+      2,
+      18,
+      27,
+      42,
+      45,
+      47
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-10-08",
+    "numbers": [
+      7,
+      12,
+      24,
+      26,
+      44,
+      45
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-10-15",
+    "numbers": [
+      8,
+      32,
+      36,
+      38,
+      43,
+      47
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-10-22",
+    "numbers": [
+      1,
+      2,
+      3,
+      6,
+      26,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-10-29",
+    "numbers": [
+      8,
+      28,
+      31,
+      34,
+      35,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-11-05",
+    "numbers": [
+      10,
+      17,
+      19,
+      26,
+      42,
+      43
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-11-12",
+    "numbers": [
+      16,
+      18,
+      29,
+      33,
+      34,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-11-19",
+    "numbers": [
+      19,
+      21,
+      35,
+      36,
+      43,
+      47
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-11-26",
+    "numbers": [
+      5,
+      27,
+      30,
+      42,
+      46,
+      47
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-12-03",
+    "numbers": [
+      13,
+      16,
+      23,
+      25,
+      26,
+      47
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-12-10",
+    "numbers": [
+      7,
+      24,
+      27,
+      31,
+      34,
+      44
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-12-17",
+    "numbers": [
+      1,
+      7,
+      12,
+      26,
+      35,
+      41
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-12-24",
+    "numbers": [
+      8,
+      18,
+      23,
+      25,
+      38,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1977-12-31",
+    "numbers": [
+      4,
+      14,
+      15,
+      18,
+      29,
+      44
+    ],
+    "superNumber": null
+  }
+]

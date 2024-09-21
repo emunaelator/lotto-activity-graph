@@ -1,0 +1,638 @@
+[
+  {
+    "date": "1967-01-01",
+    "numbers": [
+      2,
+      20,
+      33,
+      40,
+      41,
+      43
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-01-07",
+    "numbers": [
+      4,
+      12,
+      18,
+      21,
+      31,
+      32
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-01-14",
+    "numbers": [
+      2,
+      5,
+      6,
+      7,
+      22,
+      47
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-01-21",
+    "numbers": [
+      4,
+      10,
+      17,
+      31,
+      36,
+      44
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-01-28",
+    "numbers": [
+      6,
+      7,
+      18,
+      21,
+      35,
+      39
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-02-04",
+    "numbers": [
+      7,
+      8,
+      11,
+      26,
+      34,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-02-11",
+    "numbers": [
+      3,
+      22,
+      25,
+      29,
+      45,
+      47
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-02-18",
+    "numbers": [
+      3,
+      7,
+      12,
+      33,
+      44,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-02-25",
+    "numbers": [
+      3,
+      16,
+      22,
+      27,
+      32,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-03-04",
+    "numbers": [
+      19,
+      23,
+      27,
+      45,
+      47,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-03-11",
+    "numbers": [
+      5,
+      9,
+      19,
+      36,
+      39,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-03-18",
+    "numbers": [
+      4,
+      7,
+      21,
+      22,
+      23,
+      44
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-03-25",
+    "numbers": [
+      7,
+      20,
+      27,
+      29,
+      42,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-04-01",
+    "numbers": [
+      14,
+      21,
+      24,
+      31,
+      34,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-04-08",
+    "numbers": [
+      1,
+      2,
+      18,
+      26,
+      43,
+      45
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-04-15",
+    "numbers": [
+      11,
+      12,
+      22,
+      34,
+      44,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-04-22",
+    "numbers": [
+      6,
+      12,
+      16,
+      18,
+      29,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-04-29",
+    "numbers": [
+      7,
+      19,
+      23,
+      33,
+      38,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-05-06",
+    "numbers": [
+      2,
+      8,
+      18,
+      30,
+      41,
+      44
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-05-13",
+    "numbers": [
+      21,
+      26,
+      29,
+      30,
+      39,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-05-20",
+    "numbers": [
+      5,
+      18,
+      20,
+      29,
+      34,
+      43
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-05-27",
+    "numbers": [
+      2,
+      32,
+      35,
+      39,
+      46,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-06-03",
+    "numbers": [
+      2,
+      3,
+      18,
+      20,
+      37,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-06-10",
+    "numbers": [
+      17,
+      21,
+      30,
+      44,
+      45,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-06-17",
+    "numbers": [
+      7,
+      23,
+      37,
+      40,
+      43,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-06-24",
+    "numbers": [
+      3,
+      8,
+      16,
+      18,
+      31,
+      43
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-07-01",
+    "numbers": [
+      1,
+      13,
+      20,
+      30,
+      34,
+      45
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-07-08",
+    "numbers": [
+      9,
+      12,
+      19,
+      30,
+      33,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-07-15",
+    "numbers": [
+      1,
+      7,
+      22,
+      24,
+      32,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-07-22",
+    "numbers": [
+      4,
+      9,
+      10,
+      19,
+      30,
+      43
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-07-29",
+    "numbers": [
+      2,
+      3,
+      30,
+      32,
+      40,
+      41
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-08-05",
+    "numbers": [
+      2,
+      14,
+      21,
+      26,
+      41,
+      45
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-08-12",
+    "numbers": [
+      3,
+      8,
+      9,
+      13,
+      34,
+      38
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-08-19",
+    "numbers": [
+      2,
+      5,
+      13,
+      19,
+      22,
+      23
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-08-26",
+    "numbers": [
+      13,
+      21,
+      22,
+      38,
+      40,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-09-02",
+    "numbers": [
+      12,
+      22,
+      25,
+      38,
+      43,
+      44
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-09-09",
+    "numbers": [
+      7,
+      15,
+      16,
+      32,
+      35,
+      36
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-09-16",
+    "numbers": [
+      3,
+      9,
+      15,
+      20,
+      21,
+      36
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-09-23",
+    "numbers": [
+      3,
+      19,
+      26,
+      36,
+      43,
+      45
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-09-30",
+    "numbers": [
+      2,
+      20,
+      35,
+      36,
+      37,
+      49
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-10-07",
+    "numbers": [
+      1,
+      14,
+      19,
+      29,
+      32,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-10-14",
+    "numbers": [
+      22,
+      24,
+      28,
+      36,
+      44,
+      45
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-10-21",
+    "numbers": [
+      1,
+      15,
+      20,
+      22,
+      23,
+      26
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-10-28",
+    "numbers": [
+      2,
+      9,
+      13,
+      25,
+      47,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-11-04",
+    "numbers": [
+      6,
+      9,
+      11,
+      21,
+      39,
+      40
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-11-11",
+    "numbers": [
+      11,
+      22,
+      29,
+      38,
+      41,
+      42
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-11-18",
+    "numbers": [
+      2,
+      9,
+      19,
+      28,
+      38,
+      46
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-11-25",
+    "numbers": [
+      3,
+      9,
+      10,
+      24,
+      31,
+      48
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-12-02",
+    "numbers": [
+      6,
+      13,
+      17,
+      33,
+      41,
+      46
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-12-09",
+    "numbers": [
+      2,
+      12,
+      20,
+      32,
+      33,
+      43
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-12-16",
+    "numbers": [
+      6,
+      8,
+      21,
+      27,
+      30,
+      36
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-12-23",
+    "numbers": [
+      11,
+      12,
+      18,
+      29,
+      38,
+      39
+    ],
+    "superNumber": null
+  },
+  {
+    "date": "1967-12-30",
+    "numbers": [
+      11,
+      14,
+      26,
+      30,
+      41,
+      44
+    ],
+    "superNumber": null
+  }
+]
