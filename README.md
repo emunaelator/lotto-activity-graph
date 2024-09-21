@@ -2,7 +2,8 @@
 
 A React application that visualizes the frequency of German Lotto numbers drawn over various years.
 
-![App Screenshot](screenshot.png)
+[![GH-PAGES](https://github.com/emunaelator/lotto-activity-graph/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://emunaelator.github.io/lotto-activity-graph/)
+
 
 ## Features
 
