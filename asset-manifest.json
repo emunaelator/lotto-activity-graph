@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/lotto-activity-graph/static/css/main.fea253a0.css",
-    "main.js": "/lotto-activity-graph/static/js/main.64b382cd.js",
+    "main.js": "/lotto-activity-graph/static/js/main.49d32444.js",
     "index.html": "/lotto-activity-graph/index.html",
     "main.fea253a0.css.map": "/lotto-activity-graph/static/css/main.fea253a0.css.map",
-    "main.64b382cd.js.map": "/lotto-activity-graph/static/js/main.64b382cd.js.map"
+    "main.49d32444.js.map": "/lotto-activity-graph/static/js/main.49d32444.js.map"
   },
   "entrypoints": [
     "static/css/main.fea253a0.css",
-    "static/js/main.64b382cd.js"
+    "static/js/main.49d32444.js"
   ]
 }
