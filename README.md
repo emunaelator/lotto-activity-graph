@@ -24,7 +24,3 @@ A React application that visualizes the frequency of German Lotto numbers drawn 
 - **Data Updates**: Automate the data import process to include the latest lottery results.
 - **Enhanced Analytics**: Provide statistical analysis of number patterns and probabilities.
 - **User Accounts**: Allow users to save their settings and preferences.
-
-## Getting Started
-
-[Installation and usage instructions...]
